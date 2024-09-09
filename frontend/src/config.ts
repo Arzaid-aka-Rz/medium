@@ -1,0 +1,1 @@
+export const BACKEND_URL="https://backend.arzaid010103.workers.dev"
